@@ -19,7 +19,7 @@
 ### 🧰 Tech Stack
 
 - **Languages**: C, C++, Python, Java, JavaScript
-- **Platforms**: ARM Cortex-M, ESP32, AVR, STM32, Raspberry Pi, Espressif Family of MCUs
+- **Platforms**: ARM Cortex-M, ESP32, AVR, RTL8720DN, STM32, Raspberry Pi, Espressif Family of MCUs
 - **Tools**: Git, KiCad, Altium, EasyEDA, Logic Analyzers, Oscilloscopes
 - **RTOS**: FreeRTOS, Arduino IDE, ESP-IDF, bare-metal programming, Linux Kernel Programming, Linux Scripts
 - **Protocols**: I2C, SPI, UART, CAN, USB, RF, WiFi, Bluetooth & BLE, ZigBee, ESPNOW
