@@ -39,7 +39,6 @@
 ---
 
 > “Embedded systems are where software meets the real world.”  
-> – You, probably 😉
 
 ---
 
