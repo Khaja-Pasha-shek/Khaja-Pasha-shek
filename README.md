@@ -24,7 +24,7 @@
 - **RTOS**: FreeRTOS, Arduino IDE, ESP-IDF, bare-metal programming, Linux Kernel Programming, Linux Scripts
 - **Protocols**: I2C, SPI, UART, CAN, USB, RF, WiFi, Bluetooth & BLE, ZigBee, ESPNOW
 - **Dev Environments**: VS Code, PlatformIO, Keil, STM32CubeIDE, Visual Studio, Arduino IDE, QT Creator, Postman
-- **Testing**: JTAG/SWD debugging, OTA updates, power profiling
+- **Testing**: JTAG/SWD debugging, CPPUTEST, GTEST, UNITY Test Framework
 - **Virtualization**: Qemu, Hyper-V, Virtual Box, VM Ware
 - **Web Technologies**: Angular Framework, MEAN Stack
 - **Graphic Design**: Adobe Photoshop, Adobe Illusrator, Adobe InDesign
