@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shek Khaja Pasha, Embedded Systems Engineer</h1>
 
-<p align="center">
-🌍 Let's make this World a Better Place with our Ideas 📡
-</p>
-
----
 
 ### 👨‍💻 About Me
 
@@ -23,10 +18,10 @@
 - **Tools**: Git, KiCad, Altium, EasyEDA, Logic Analyzers, Oscilloscopes
 - **RTOS**: FreeRTOS, Arduino IDE, ESP-IDF, bare-metal programming, Linux Kernel Programming, Linux Scripts
 - **Protocols**: I2C, SPI, UART, CAN, USB, RF, WiFi, Bluetooth & BLE, ZigBee, ESPNOW
-- **Dev Environments**: VS Code, PlatformIO, Keil, STM32CubeIDE, Visual Studio, Arduino IDE, QT Creator, Postman
-- **Testing**: JTAG/SWD debugging, CPPUTEST, GTEST, UNITY Test Framework
+- **Dev Environments**: VS Code, PlatformIO, Keil, STM32CubeIDE, Visual Studio, Arduino IDE, QT Creator
+- **Testing**: JTAG/SWD debugging, CPPUTEST, GTEST, UNITY Test Framework, PostMan api Testing
 - **Virtualization**: Qemu, Hyper-V, Virtual Box, VM Ware
-- **Web Technologies**: Angular Framework, MEAN Stack
+- **Web Technologies**:MEAN Stack
 - **Graphic Design**: Adobe Photoshop, Adobe Illusrator, Adobe InDesign
 - **Daily Drive OS**: Debian 12, Windows 10, Windows 11
 ---
